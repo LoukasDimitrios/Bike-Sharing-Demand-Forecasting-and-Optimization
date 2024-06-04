@@ -6,6 +6,8 @@ Developed predictive models to forecast bike-sharing demand and optimized bike a
 # Introduction:
 The bike sharing project analyzes and predicts bike demand patterns in a bike-sharing system. Using machine learning, the project aims to improve bike distribution and operational efficiency.
 
+# Implementation
+
 ## Part 1: Data Cleaning and Exploration
 
 * Birth Year 1969 Analysis: Examine and clean data entries related to birth year 1969.
