@@ -30,3 +30,7 @@ The bike sharing project analyzes and predicts bike demand patterns in a bike-sh
 * Station Grouping: Group stations by demand levels and analyze spatial distribution of demand.
 * New Dataset Integration: Integrate weather or other datasets to study their impact on bike demand.
 * Seasonal Analysis: Analyze seasonal variations in bike demand and their correlation with weather variables.
+
+
+# Dataset
+https://drive.google.com/file/d/1MxQBfYpt033PIJnAOtFAui5btXA7GV-T/view?usp=sharing
